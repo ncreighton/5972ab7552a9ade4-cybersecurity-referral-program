@@ -1,0 +1,2 @@
+# 5972ab7552a9ade4-cybersecurity-referral-program
+cybersecurity professionals waste hours on context-switching away from your editor to look things up. This fixes that.  Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Cybersecurity Referral Program And Tracking — fully con
